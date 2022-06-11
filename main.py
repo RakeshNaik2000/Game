@@ -5,7 +5,7 @@ l = ["scissor","paper","rock"]
 
 d = {1:"scissor",2:"paper",3:"rock"}
 
-target = int(input("For how much points do you want to play game:"))
+target = int(input("For how much games do you want to play game:"))
 
 cha,rob =0,0
 while target>0:
